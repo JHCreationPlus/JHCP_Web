@@ -5,3 +5,4 @@ var printFunc = function(name) {
 }
 
 printFunc('Hello World!');
+printFunc('Long time no see.');
