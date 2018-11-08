@@ -1,3 +1,5 @@
+// https://javafa.gitbooks.io/nodejs_server_basic/content/chapter4.html
+
 // 노드 JS를 돌릴 기본적인 서버
 // IDE에서 디버그하거나 cmd에서 이 파일을 node 명령어로 실행하면 서버가 돌아감
 // C:\Workspace\javascript\JHCP_Web\Server> node server
